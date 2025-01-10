@@ -1,51 +1,22 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Educação Tecnológica nas Escolas 🚀📚
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto é um guia de 5 etapas para integrar tecnologias educacionais nas escolas, promovendo o aprendizado prático e preparando os alunos para o futuro digital.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para elaboração de planos de aula e materiais educativos;  
+- Plataforma de programação **[Scratch](https://scratch.mit.edu)** para ensino interativo de lógica de programação;  
+- **Kahoot!** para gamificação das aulas;  
+- **Figma** para design de recursos visuais e protótipos.  
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o **ChatGPT** para criar roteiros e atividades adaptadas às diferentes faixas etárias. O **Scratch** foi usado para desenvolver projetos interativos que estimulam o raciocínio lógico dos alunos. Com o **Kahoot!**, criei quizzes dinâmicos para reforçar o aprendizado, enquanto o **Figma** ajudou na criação de protótipos visuais de conteúdos e apresentações.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O projeto resultou em:
+- Aulas mais engajantes com o uso de tecnologia interativa;
+- Alunos desenvolvendo habilidades como programação e resolução de problemas;
+- Recursos visuais e interativos alinhados com as necessidades pedagógicas.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+Criar este projeto mostrou como as tecnologias educacionais podem ser uma ponte entre o ensino tradicional e as demandas do mundo digital. O processo de integração foi desafiador, mas revelou o imenso potencial das ferramentas tecnológicas na transformação do aprendizado.
